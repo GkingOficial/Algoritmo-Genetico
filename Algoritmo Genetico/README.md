@@ -42,10 +42,10 @@ Para rodar este jogo, você vai precisar ter instalado em sua máquina as seguin
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/Daniel-Alencar/algoritmo-genetico
+$ git clone https://github.com/GkingOficial/Algoritmo Genetico
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd algoritmo-genetico
+$ cd Algoritmo-Genetico/Algoritmo Genetico
 
 # Crie um ambiente virtual para instalar as dependências
 $ virtualenv myENV
